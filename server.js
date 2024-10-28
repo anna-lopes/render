@@ -19,7 +19,7 @@ app.use(cors({
     }
 }));
 
-const uri = "mongodb+srv://nicolassiribolabordini:OzV8YeG6z813dPWs@cluster0.btxom.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+const uri = "mongodb+srv://annalopesjuju:1ZnOGViVpiUawLD5@cluster0.4tbpi.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
 
 
 const client = new MongoClient(uri, {
